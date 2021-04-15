@@ -1,4 +1,3 @@
-require 'pry'
 class PriceCalculator
   PRICING_TABLE = { milk: 3.97, bread: 2.17, banana: 0.99, apple: 0.89 }.freeze
   SALE_PRICING = { milk: { volume: 2, price: 5 }, bread: { volume: 3, price: 6 } }.freeze
