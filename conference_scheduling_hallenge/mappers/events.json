@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Pryin open the black box",
+    "duration": 60,
+    "is_lightning": false
+  },
+  {
+    "name": "Migrating a huge production codebase from sinatra to Rails",
+    "duration": 45,
+    "is_lightning": false
+  },
+  {
+    "name": "How does bundler work",
+    "duration": 30,
+    "is_lightning": false
+  },
+  {
+    "name": "Sustainable Open Source",
+    "duration": 45,
+    "is_lightning": false
+  },
+  {
+    "name": "How to program with Accessiblity in Mind",
+    "duration": 45,
+    "is_lightning": false
+  },
+  {
+    "name": "Riding Rails for 10 years",
+    "duration": 5,
+    "is_lightning": true
+  },
+  {
+    "name": "Implementing a strong code review culture",
+    "duration": 60,
+    "is_lightning": false
+  },
+  {
+    "name": "Scaling Rails for Black Friday",
+    "duration": 45,
+    "is_lightning": false
+  },
+  {
+    "name": "Docker isn't just for deployment",
+    "duration": 30,
+    "is_lightning": false
+  },
+  {
+    "name": "Callbacks in Rails",
+    "duration": 30,
+    "is_lightning": false
+  },
+  {
+    "name": "Microservices, a bittersweet symphony",
+    "duration": 45,
+    "is_lightning": false
+  },
+  {
+    "name": "Teaching github for poets",
+    "duration": 60,
+    "is_lightning": false
+  },
+  {
+    "name": "Test Driving your Rails Infrastucture with Chef",
+    "duration": 60,
+    "is_lightning": false
+  },
+  {
+    "name": "SVG charts and graphics with Ruby",
+    "duration": 45,
+    "is_lightning": false
+  },
+  {
+    "name": "Interviewing like a unicorn: How Great Teams Hire",
+    "duration": 30,
+    "is_lightning": false
+  },
+  {
+    "name": "How to talk to humans: a different approach to soft skills",
+    "duration": 30,
+    "is_lightning": false
+  },
+  {
+    "name": "Getting a handle on Legacy Code",
+    "duration": 60,
+    "is_lightning": false
+  },
+  {
+    "name": "Heroku: A year in review",
+    "duration": 30,
+    "is_lightning": false
+  },
+  {
+    "name": "Ansible : An alternative to chef",
+    "duration": 5,
+    "is_lightning": true
+  },
+  {
+    "name": "Ruby on Rails on Minites",
+    "duration": 30,
+    "is_lightning": false
+  }
+]
